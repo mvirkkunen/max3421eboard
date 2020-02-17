@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name max3421eboard-rescue)(type Legacy)(uri ${KIPRJMOD}/max3421eboard-rescue.lib)(options "")(descr ""))
+)
